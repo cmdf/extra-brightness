@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Management;
 
-namespace cmd_brightness {
+namespace orez.obrightness {
 	class Program {
 
 		// data
