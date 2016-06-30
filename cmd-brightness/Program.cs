@@ -36,11 +36,11 @@ namespace orez.obrightness {
 		/// </summary>
 		/// <param name="args">brightness.</param>
 		private static void Set(string[] args) {
-			byte v = 0;
-			byte.TryParse(args[0], out v);
+			double v = 0;
+			double.TryParse(args[0], out v);
 			ManagementObject o = Obj(WmiNs, "WmiMonitorBrightnessMethods");
 			if (o == null) Console.Error.WriteLine("err: WMI interfacing failed");
-			else o.InvokeMethod("WmiSetBrightness", new object[] { uint.MaxValue, v });
+			else o.InvokeMethod("WmiSetBrightness", new object[] { uint.MaxValue, (byte)v });
 		}
 
 		/// <summary>
