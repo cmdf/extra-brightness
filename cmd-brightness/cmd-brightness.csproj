@@ -7,8 +7,8 @@
     <ProjectGuid>{7B6B964B-1B92-4693-84F8-601F470EFECE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>cmd_brightness</RootNamespace>
-    <AssemblyName>cmd-brightness</AssemblyName>
+    <RootNamespace>orez.obrightness</RootNamespace>
+    <AssemblyName>obrightness</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
