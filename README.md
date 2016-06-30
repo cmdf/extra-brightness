@@ -19,8 +19,3 @@ Get or set screen brightness from Windows Console.
 :: set screen brightness to 50%
 > obrightness 50
 ```
-
-
-## license
-
-You have a Poké ball? That's enough!
