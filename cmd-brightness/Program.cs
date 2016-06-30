@@ -10,6 +10,8 @@ namespace orez.obrightness {
 		/// </summary>
 		private static string WmiNs = "root\\WMI";
 
+
+		// static methods
 		/// <summary>
 		/// You have to dream before your dreams can come true.
 		/// : A. P. J. Abdul Kalam
