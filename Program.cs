@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Management;
 
-namespace orez.obrightness {
+namespace App {
 	class Program {
 
 		// data

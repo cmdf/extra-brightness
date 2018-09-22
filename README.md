@@ -1,4 +1,4 @@
-# obrightness
+# ebrightness
 
 Get or set screen brightness from Windows Console.
 
@@ -6,7 +6,7 @@ Get or set screen brightness from Windows Console.
 ## usage
 
 ```batch
-> obrightness [<value>]
+> ebrightness [<value>]
 
 :: [] -> optional argument
 :: <> -> argument value
@@ -14,8 +14,8 @@ Get or set screen brightness from Windows Console.
 
 ```batch
 :: get screen brightness
-> obrightness
+> ebrightness
 
 :: set screen brightness to 50%
-> obrightness 50
+> ebrightness 50
 ```
