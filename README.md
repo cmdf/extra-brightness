@@ -18,3 +18,6 @@ Get or set screen brightness from Windows Console.
 :: set screen brightness to 50%
 > ebrightness 50
 ```
+
+
+[![Merferry](https://i.imgur.com/cDGClHP.jpg)](https://merferry.github.io)
