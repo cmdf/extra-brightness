@@ -1,5 +1,5 @@
 Get or set screen brightness from Windows Console.
-> 1. Download [exe file](https://github.com/winp/extra-brightness/releases/download/1.0.0/ebrightness.exe).
+> 1. Download [exe file](https://github.com/cmdf/extra-brightness/releases/download/1.0.0/ebrightness.exe).
 > 2. Copy to `C:\Program_Files\Scripts`.
 > 3. Add `C:\Program_Files\Scripts` to `PATH` environment variable.
 
@@ -20,4 +20,4 @@ Get or set screen brightness from Windows Console.
 ```
 
 
-[![Merferry](https://i.imgur.com/cDGClHP.jpg)](https://merferry.github.io)
+[![cmdf](https://i.imgur.com/cDGClHP.jpg)](https://cmdf.github.io)
